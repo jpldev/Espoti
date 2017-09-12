@@ -1,2 +1,4 @@
-# Espoti
-Using spotify api
+# Searching music with Spotify API
+
+Using Spotify api.
+
